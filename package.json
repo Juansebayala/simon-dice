@@ -1,0 +1,22 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "Juego de simon dice como tarea para r/Argentina Programa",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juansebayala/simon-dice.git"
+  },
+  "author": "Juan Sebastián Ayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juansebayala/simon-dice/issues"
+  },
+  "homepage": "https://github.com/Juansebayala/simon-dice#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
