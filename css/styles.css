@@ -3,6 +3,7 @@
   height: 200px;
   margin: 5px;
   opacity: 0.5;
+  transition: opacity 500ms;
 }
 
 #cuadro-1 {
